@@ -1,0 +1,22 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.thumbnail {
+  border: 1px solid #cecece;
+  border-radius: 5px;
+  padding: 25px 15px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+}
+
+.thumbnail p {
+  margin-bottom: 0;
+}
+
+.thumbnail .badge {
+  background: #999;
+  color: #fff;
+  margin-left: 10px;
+}
